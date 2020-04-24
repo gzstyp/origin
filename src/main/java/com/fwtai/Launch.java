@@ -3,6 +3,9 @@ package com.fwtai;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 启动器
+ */
 @SpringBootApplication
 public class Launch{
 
